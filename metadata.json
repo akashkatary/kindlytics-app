@@ -1,0 +1,8 @@
+{
+  "name": "Kindlytics Leadership Assessment",
+  "description": "Executive behavioural leadership assessment platform featuring 360 peer evaluations, 150-question diagnostic engine, and executive intelligence reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
